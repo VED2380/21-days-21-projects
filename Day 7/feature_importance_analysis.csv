@@ -1,0 +1,63 @@
+feature,importance
+month_to_month_charges,0.08043390218480374
+monthly_to_total_ratio,0.08024970821278114
+TotalCharges,0.06674872324782974
+avg_monthly_charges,0.06593617151521115
+MonthlyCharges,0.06337606287473893
+tenure_months,0.05051701159183934
+tenure_years,0.05020279278354666
+tenure,0.05014208520707413
+fiber_monthly_charges,0.04508808644629337
+Contract_Month-to-month,0.03426718417447138
+TechSupport_No,0.023485305989691695
+is_month_to_month,0.022901213848544124
+OnlineSecurity_No,0.022646260444626077
+senior_monthly_charges,0.01741109168691302
+security_services_count,0.015289135959189919
+total_services,0.015265851908060204
+gender,0.014920090531444172
+InternetService_Fiber optic,0.014543839919291335
+PaymentMethod_Electronic check,0.013936341101877225
+is_electronic_payment,0.013371668150285641
+family_size,0.012748692367979318
+has_paperless_billing,0.011428801932509676
+is_new_customer,0.010491785541214195
+PaperlessBilling,0.010385015003600694
+has_fiber,0.009205313825208351
+OnlineBackup_No,0.009007784935784887
+streaming_services_count,0.008532232415708062
+Partner,0.0079960063464593
+MultipleLines_No,0.007684032405804761
+has_partner,0.007628788183711102
+MultipleLines_Yes,0.007455283502392233
+OnlineSecurity_Yes,0.007208596043695618
+Dependents,0.007207447606027818
+PaymentMethod_Bank transfer (automatic),0.007068954394368332
+SeniorCitizen,0.006943446282099462
+DeviceProtection_No,0.006932878134242368
+has_dependents,0.00678058615274721
+OnlineBackup_Yes,0.00674141502489648
+PaymentMethod_Mailed check,0.006684469124649023
+PaymentMethod_Credit card (automatic),0.00655539735951319
+is_senior,0.006351122241986841
+DeviceProtection_Yes,0.006286264445684415
+TechSupport_Yes,0.00575874510449574
+StreamingMovies_Yes,0.005453227020718032
+StreamingMovies_No,0.005378913390706262
+StreamingTV_No,0.004897266471586022
+StreamingTV_Yes,0.004682811172755442
+Contract_Two year,0.004412301413818526
+Contract_One year,0.004348362930833309
+high_charges,0.004141676521924997
+InternetService_DSL,0.004091673436701674
+is_long_term_customer,0.0032596415503710723
+StreamingTV_No internet service,0.002979283753538017
+MultipleLines_No phone service,0.0024067587579653543
+DeviceProtection_No internet service,0.0021403898578332054
+PhoneService,0.0019373732414545966
+OnlineBackup_No internet service,0.0013819274572101545
+TechSupport_No internet service,0.0011030606490689287
+InternetService_No,0.0010968353917652285
+StreamingMovies_No internet service,0.000987594133362698
+has_internet,0.0008249389467471675
+OnlineSecurity_No internet service,0.0006603777483472577
